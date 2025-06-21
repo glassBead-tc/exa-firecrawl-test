@@ -1,0 +1,849 @@
+[
+  {
+    "id": 1,
+    "url": "https://axios-http.com/docs/intro",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 2,
+    "url": "https://tanstack.com/table/latest/docs/guide/column-defs",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 3,
+    "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 4,
+    "url": "https://www.solidjs.com/docs/latest",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 5,
+    "url": "https://rxjs.dev/guide/overview",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 6,
+    "url": "https://umijs.org/docs/introduce/introduce",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 7,
+    "url": "https://formik.org/docs/overview",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 8,
+    "url": "https://tanstack.com/table/v8/docs/guide/migrating",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 9,
+    "url": "https://reactrouter.com/en/main",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 10,
+    "url": "https://mui.com/material-ui/getting-started/installation/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 11,
+    "url": "https://react-hook-form.com/get-started",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 12,
+    "url": "https://mui.com/material-ui/migration/v5-style-changes/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 13,
+    "url": "https://formik.org/docs/api/formik",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 14,
+    "url": "https://v2.chakra-ui.com/getting-started",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 15,
+    "url": "https://github.com/streamich/react-use/blob/master/docs/useKeyPress.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/docs/useKeyPress.md"
+  },
+  {
+    "id": 16,
+    "url": "https://github.com/streamich/react-use/blob/master/docs/createReducer.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/docs/createReducer.md"
+  },
+  {
+    "id": 17,
+    "url": "https://github.com/streamich/react-use/blob/master/docs/useCookie.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/docs/useCookie.md"
+  },
+  {
+    "id": 18,
+    "url": "https://github.com/streamich/react-use/blob/master/docs/useIsomorphicLayoutEffect.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/docs/useIsomorphicLayoutEffect.md"
+  },
+  {
+    "id": 19,
+    "url": "https://github.com/streamich/react-use/blob/master/docs/useKey.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/docs/useKey.md"
+  },
+  {
+    "id": 20,
+    "url": "https://github.com/streamich/react-use/blob/master/docs/useEffectOnce.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/docs/useEffectOnce.md"
+  },
+  {
+    "id": 21,
+    "url": "https://tanstack.com/query/latest",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 22,
+    "url": "https://github.com/streamich/react-use/blob/master/docs/useBeforeUnload.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/docs/useBeforeUnload.md"
+  },
+  {
+    "id": 23,
+    "url": "https://github.com/streamich/react-use/blob/master/docs/useCopyToClipboard.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/docs/useCopyToClipboard.md"
+  },
+  {
+    "id": 24,
+    "url": "https://github.com/streamich/react-use/blob/master/docs/useHover.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/docs/useHover.md"
+  },
+  {
+    "id": 25,
+    "url": "https://github.com/streamich/react-use/blob/master/docs/usePrevious.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/docs/usePrevious.md"
+  },
+  {
+    "id": 26,
+    "url": "https://github.com/streamich/react-use/blob/master/docs/useUpdateEffect.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/docs/useUpdateEffect.md"
+  },
+  {
+    "id": 27,
+    "url": "https://ant.design/docs/react/introduce",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 28,
+    "url": "https://fluent2.microsoft.design/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 29,
+    "url": "https://tanstack.com/query/latest",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 30,
+    "url": "https://fluent2.microsoft.design/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 31,
+    "url": "https://github.com/microsoft/fluentui/blob/86337324a5fd8b522855eb8bdcbf012a868a26ba/packages/styling/README.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/microsoft/fluentui/86337324a5fd8b522855eb8bdcbf012a868a26ba/packages/styling/README.md"
+  },
+  {
+    "id": 32,
+    "url": "https://github.com/streamich/react-use/blob/master/docs/useDebounce.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/docs/useDebounce.md"
+  },
+  {
+    "id": 33,
+    "url": "https://github.com/streamich/react-use/blob/master/docs/useLocalStorage.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/docs/useLocalStorage.md"
+  },
+  {
+    "id": 34,
+    "url": "https://github.com/streamich/react-use/blob/master/docs/useMount.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/docs/useMount.md"
+  },
+  {
+    "id": 35,
+    "url": "https://storybook.js.org/docs",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 36,
+    "url": "https://tanstack.com/table/v8/docs/guide/pagination",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 37,
+    "url": "https://github.com/streamich/react-use",
+    "content_type": "github_repo",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 38,
+    "url": "https://github.com/streamich/react-use/blob/master/src/useAsyncRetry.ts",
+    "content_type": "github_code",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/src/useAsyncRetry.ts"
+  },
+  {
+    "id": 39,
+    "url": "https://github.com/streamich/react-use/blob/master/docs/usePromise.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/docs/usePromise.md"
+  },
+  {
+    "id": 40,
+    "url": "https://tanstack.com/table/latest/docs/guide/tables",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 41,
+    "url": "https://inversify.io/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 42,
+    "url": "https://github.com/streamich/react-use/blob/master/docs/useTimeoutFn.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/docs/useTimeoutFn.md"
+  },
+  {
+    "id": 43,
+    "url": "https://tanstack.com/table/v8/docs/guide/column-filtering",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 44,
+    "url": "https://tanstack.com/table/latest/docs/installation",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 45,
+    "url": "https://v2.chakra-ui.com/docs/data-display/table",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 46,
+    "url": "https://tanstack.com/table/v8/docs/framework/react/examples/virtualized-rows",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 47,
+    "url": "https://tanstack.com/table/v8/docs/guide/column-defs",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 48,
+    "url": "https://tanstack.com/table/v8/docs/framework/react/examples/column-visibility",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 49,
+    "url": "https://tanstack.com/table/v8/docs/framework/angular/angular-table",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 50,
+    "url": "https://tanstack.com/table/v8/docs/guide/data",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 51,
+    "url": "https://tanstack.com/table/latest/docs/guide/column-defs",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 52,
+    "url": "https://tanstack.com/table/v8/docs/framework/react/examples/column-pinning-sticky",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 53,
+    "url": "https://tanstack.com/table/v8/docs/framework/react/examples/full-width-resizable-table",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 54,
+    "url": "https://tanstack.com/table/v8/docs/framework/react/examples/fully-controlled",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 55,
+    "url": "https://tanstack.com/table/v8/docs/framework/react/examples/column-sizing?from=reactTableV7",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 56,
+    "url": "https://tanstack.com/table/v8/docs/framework/react/examples/pagination",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 57,
+    "url": "https://tanstack.com/table/v8/docs/framework/react/examples/full-width-table",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 58,
+    "url": "https://tanstack.com/table/v8/docs/framework/react/examples/row-selection",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 59,
+    "url": "https://tanstack.com/table/v8/docs/framework/react/examples/column-pinning/sticky",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 60,
+    "url": "https://tanstack.com/table/v8/docs/framework/vue/vue-table",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 61,
+    "url": "https://tanstack.com/table/v8/docs/framework/react/examples/column-groups",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 62,
+    "url": "https://fluent2.microsoft.design/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 63,
+    "url": "https://fluent2.microsoft.design//packages/web-components",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 64,
+    "url": "https://tanstack.com/table/latest",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 65,
+    "url": "https://fluent2.microsoft.design/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 66,
+    "url": "https://docs.deno.com",
+    "content_type": "documentation",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 67,
+    "url": "https://fluent2.microsoft.design/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 68,
+    "url": "https://storybook.js.org/docs",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 69,
+    "url": "https://fluent2.microsoft.design/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 70,
+    "url": "https://fluent2.microsoft.design/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 71,
+    "url": "https://storybook.js.org/docs",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 72,
+    "url": "https://mui.com/material-ui/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 73,
+    "url": "https://fluent2.microsoft.design/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 74,
+    "url": "https://tanstack.com/table/latest",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 75,
+    "url": "https://tanstack.com/learn",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 76,
+    "url": "https://fluent2.microsoft.design/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 77,
+    "url": "https://swr.vercel.app",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 78,
+    "url": "https://formik.org/docs/overview",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 79,
+    "url": "https://github.com/streamich/react-use/blob/master/docs/useAsync.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/docs/useAsync.md"
+  },
+  {
+    "id": 80,
+    "url": "https://tanstack.com/query/latest",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 81,
+    "url": "https://github.com/streamich/react-use/blob/master/docs/useAsyncRetry.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/docs/useAsyncRetry.md"
+  },
+  {
+    "id": 82,
+    "url": "https://github.com/streamich/react-use/blob/master/docs/useAsyncFn.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/streamich/react-use/master/docs/useAsyncFn.md"
+  },
+  {
+    "id": 83,
+    "url": "https://inversify.io/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 84,
+    "url": "https://github.com/TanStack/table/blob/main/README.md",
+    "content_type": "github_markdown",
+    "requires_raw": true,
+    "raw_url": "https://raw.githubusercontent.com/TanStack/table/main/README.md"
+  },
+  {
+    "id": 85,
+    "url": "https://tanstack.com/table/latest",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 86,
+    "url": "https://tanstack.com/table/latest",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 87,
+    "url": "https://tanstack.com/table/latest/docs/framework/react/examples/basic",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 88,
+    "url": "https://www.apollographql.com/docs/react/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 89,
+    "url": "https://remix.run/docs/en/main",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 90,
+    "url": "https://www.typescriptlang.org/docs/",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 91,
+    "url": "https://nextjs.org/docs",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 92,
+    "url": "https://tanstack.com/form/latest",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 93,
+    "url": "https://tanstack.com/query/latest",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 94,
+    "url": "https://swr.vercel.app",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 95,
+    "url": "https://tanstack.com/table/latest",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 96,
+    "url": "https://remix.run/docs/en/main",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 97,
+    "url": "https://www.typescriptlang.org/docs/",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 98,
+    "url": "https://remix.run/docs/en/main",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 99,
+    "url": "https://tanstack.com/query/latest",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 100,
+    "url": "https://web3js.readthedocs.io/",
+    "content_type": "documentation",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 101,
+    "url": "https://fluent2.microsoft.design/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 102,
+    "url": "https://lit.dev/docs/",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 103,
+    "url": "https://fluent2.microsoft.design/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 104,
+    "url": "https://fluent2.microsoft.design/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 105,
+    "url": "https://fluent2.microsoft.design/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 106,
+    "url": "https://lit.dev/docs/",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 107,
+    "url": "https://lit.dev/docs/",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 108,
+    "url": "https://fluent2.microsoft.design/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 109,
+    "url": "https://www.solidjs.com/docs/latest",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 110,
+    "url": "https://definitelytyped.org/",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 111,
+    "url": "https://angular.dev/",
+    "content_type": "documentation",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 112,
+    "url": "https://docs.nestjs.com",
+    "content_type": "documentation",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 113,
+    "url": "https://docs.nestjs.com",
+    "content_type": "documentation",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 114,
+    "url": "https://tanstack.com/query/latest",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 115,
+    "url": "https://docs.nestjs.com",
+    "content_type": "documentation",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 116,
+    "url": "https://ant.design/docs/react/introduce",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 117,
+    "url": "https://aurelia.io/docs",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 118,
+    "url": "https://typegraphql.com/docs/introduction.html",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 119,
+    "url": "https://discord.js.org/docs",
+    "content_type": "framework_docs",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 120,
+    "url": "https://docs.nestjs.com",
+    "content_type": "documentation",
+    "requires_raw": false,
+    "raw_url": null
+  },
+  {
+    "id": 121,
+    "url": "https://aurelia.io/docs",
+    "content_type": "website",
+    "requires_raw": false,
+    "raw_url": null
+  }
+]

@@ -1,0 +1,51 @@
+id,url,content_type,final_vote,exa_status,firecrawl_status,reasoning
+1,https://axios-http.com/docs/intro,framework_docs,FIRECRAWL,truncated_code,complete,Firecrawl captured full CDN script tags while Exa truncated them
+2,https://tanstack.com/table/latest/docs/guide/column-defs,framework_docs,FIRECRAWL,incomplete,complete,Firecrawl provided complete navigation and code examples
+3,https://www.typescriptlang.org/docs/handbook/intro.html,documentation,EXA,clean,excessive_nav,Exa cleaner despite Firecrawl having more structure
+4,https://www.solidjs.com/docs/latest,framework_docs,FIRECRAWL,incomplete,complete,Firecrawl preserved complete documentation structure
+5,https://rxjs.dev/guide/overview,framework_docs,TIE,good,good,Both captured essential content well
+6,https://umijs.org/docs/introduce/introduce,framework_docs,FIRECRAWL,english_only,bilingual,Firecrawl captured both Chinese and English content
+7,https://formik.org/docs/overview,framework_docs,FIRECRAWL,truncated,complete,Firecrawl provided complete code examples and installation
+8,https://tanstack.com/table/v8/docs/guide/migrating,framework_docs,FIRECRAWL,incomplete_code,complete,Firecrawl preserved complete migration guide
+9,https://reactrouter.com/en/main,framework_docs,FIRECRAWL,minimal,complete,Firecrawl captured full splash page with badges and stats
+10,https://mui.com/material-ui/getting-started/installation/,framework_docs,FIRECRAWL,incomplete_html,complete,Firecrawl preserved all code blocks with syntax highlighting
+11,https://react-hook-form.com/get-started,framework_docs,FIRECRAWL,broken_code,complete,Exa had severely broken code blocks
+12,https://mui.com/material-ui/migration/v5-style-changes/,framework_docs,FIRECRAWL,truncated,complete,Exa truncated mid-sentence
+13,https://formik.org/docs/api/formik,framework_docs,FIRECRAWL,truncated,complete,Exa truncated at line 80
+14,https://v2.chakra-ui.com/getting-started,framework_docs,FIRECRAWL,malformed,complete,Exa had malformed code blocks
+15,https://github.com/streamich/react-use/blob/master/docs/useKeyPress.md,github_markdown,INVALID,empty,empty,Both returned empty content
+16,https://github.com/streamich/react-use/blob/master/docs/createReducer.md,github_markdown,INVALID,empty,empty,Both returned empty content
+17,https://github.com/streamich/react-use/blob/master/docs/useCookie.md,github_markdown,INVALID,empty,empty,Both returned empty content
+18,https://github.com/streamich/react-use/blob/master/docs/useIsomorphicLayoutEffect.md,github_markdown,INVALID,empty,empty,Both returned empty content
+19,https://github.com/streamich/react-use/blob/master/docs/useKey.md,github_markdown,INVALID,empty,empty,Both returned empty content
+20,https://github.com/streamich/react-use/blob/master/docs/useEffectOnce.md,github_markdown,INVALID,empty,empty,Both returned empty content
+21,https://tanstack.com/query/latest,framework_docs,TIE,clean,structured,Both captured content well with different formatting approaches
+22,https://github.com/streamich/react-use/blob/master/docs/useBeforeUnload.md,github_markdown,INVALID,empty,empty,Both returned empty content
+23,https://github.com/streamich/react-use/blob/master/docs/useCopyToClipboard.md,github_markdown,INVALID,empty,empty,Both returned empty content
+24,https://github.com/streamich/react-use/blob/master/docs/useHover.md,github_markdown,INVALID,empty,empty,Both returned empty content
+25,https://github.com/streamich/react-use/blob/master/docs/usePrevious.md,github_markdown,INVALID,empty,empty,Both returned empty content
+26,https://github.com/streamich/react-use/blob/master/docs/useUpdateEffect.md,github_markdown,INVALID,empty,empty,Both returned empty content
+27,https://ant.design/docs/react/introduce,framework_docs,FIRECRAWL,truncated,complete,Firecrawl captured comprehensive documentation
+28,https://fluent2.microsoft.design/,framework_docs,FIRECRAWL,partial,complete,Firecrawl captured complete homepage vs partial component list
+29,https://tanstack.com/query/latest,framework_docs,TIE,adequate,adequate,Both captured content adequately
+30,https://fluent2.microsoft.design/,framework_docs,FIRECRAWL,partial,complete,Same as ID 28
+31,https://github.com/microsoft/fluentui/blob/86337324a5fd8b522855eb8bdcbf012a868a26ba/packages/styling/README.md,github_markdown,FIRECRAWL,empty,complete,Exa completely empty while Firecrawl captured full documentation
+32,https://github.com/streamich/react-use/blob/master/docs/useDebounce.md,github_markdown,FIRECRAWL,empty,complete,Exa empty while Firecrawl captured comprehensive documentation
+33,https://github.com/streamich/react-use/blob/master/docs/useLocalStorage.md,github_markdown,FIRECRAWL,empty,complete,Exa empty while Firecrawl captured complete API reference
+34,https://github.com/streamich/react-use/blob/master/docs/useMount.md,github_markdown,FIRECRAWL,empty,complete,Exa empty while Firecrawl captured hook documentation
+35,https://storybook.js.org/docs,framework_docs,FIRECRAWL,basic,comprehensive,Firecrawl captured rich documentation vs basic intro content
+36,https://tanstack.com/table/v8/docs/guide/pagination,framework_docs,FIRECRAWL,truncated,complete,Exa substantial but truncated vs complete documentation
+37,https://github.com/streamich/react-use/blob/main/README.md,github_markdown,FIRECRAWL,empty,complete,Exa empty while Firecrawl captured complete repository overview
+38,https://github.com/streamich/react-use/blob/main/src/useAsyncRetry.ts,github_code,TIE,empty,empty,Both returned empty content
+39,https://github.com/streamich/react-use/blob/master/docs/usePromise.md,github_markdown,FIRECRAWL,empty,complete,Exa empty while Firecrawl captured complete documentation
+40,https://tanstack.com/table/latest/docs/guide/tables,framework_docs,FIRECRAWL,truncated,complete,Exa substantial but truncated vs complete guide
+41,https://inversify.io/,framework_docs,FIRECRAWL,minimal,complete,Exa minimal feature text vs complete landing page
+42,https://github.com/streamich/react-use/blob/master/docs/useTimeoutFn.md,github_markdown,FIRECRAWL,empty,complete,Exa empty while Firecrawl captured comprehensive documentation
+43,https://tanstack.com/table/v8/docs/guide/column-filtering,framework_docs,FIRECRAWL,truncated,complete,Exa truncated vs extensive technical documentation
+44,https://tanstack.com/table/latest/docs/installation,framework_docs,TIE,adequate,comprehensive,Both captured essential installation content
+45,https://vitejs.dev/,framework_docs,TIE,focused,comprehensive,Both captured homepage effectively with different approaches
+46,https://tanstack.com/table/v8/docs/framework/react/examples/virtualized-rows,framework_docs,FIRECRAWL,empty,complete,Exa empty while Firecrawl captured complete React examples
+47,https://docs.microsoft.com/en-us/fluent-ui/web-components/getting-started,documentation,FIRECRAWL,empty,complete,Exa empty while Firecrawl captured comprehensive Microsoft docs
+48,https://docs.docker.com/desktop/,documentation,FIRECRAWL,basic,complete,Exa basic technical info vs detailed product page
+49,https://docs.microsoft.com/en-us/windows/powertoys/,documentation,FIRECRAWL,basic,complete,Exa basic info vs comprehensive PowerToys documentation
+50,https://tanstack.com/table/v8/docs/guide/data,framework_docs,FIRECRAWL,empty,empty,Both returned empty content
